@@ -1,0 +1,1 @@
+Repo to storing Azure custom policies
